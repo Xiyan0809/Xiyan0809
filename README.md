@@ -54,21 +54,7 @@ class Developer:
 
 </div>
 
----
 
-## 🎨 主题元素 | Theme Elements
-
-<div align="center">
-
-> **"代码的世界，就像 EVA 的 AT 力场 —— 看似坚固，但总能找到突破的缝隙。"**
-
-<img src="https://media.tenor.com/images/2f2e5d6b8c4a4e4a8f4a4e4a8f4a4e4a/tenor.gif" alt="EVA Icon" width="100"/>
-
-**使徒来袭？不，是 Bug 来袭！但我已准备好同步率 400% 的解决方案！**
-
-</div>
-
----
 
 ## 📊 访客统计 | Visitor Count
 
