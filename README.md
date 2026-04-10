@@ -13,24 +13,6 @@
 
 ---
 
-
-
-## 🏆 成就奖杯 | Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xiyan0809&theme=darkhub&column=4&row=2&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
-
-
-
-## 📈 代码活动 | Code Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xiyan0809&theme=react-dark&bg_color=0D1117&color=6495ED&line=6495ED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
 ## 🌟 个人简介 | About Me
 
 <div align="left">
@@ -54,7 +36,15 @@ class Developer:
 
 </div>
 
+---
 
+## 📈 代码活动 | Code Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xiyan0809&theme=react-dark&bg_color=0D1117&color=6495ED&line=6495ED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
 
 ## 📬 联系方式 | Contact Me
 
