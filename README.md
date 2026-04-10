@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0x6495ED&height=250&section=header&text=Chengbo%20Yang%20|%20EVA%20Developer&fontSize=45&fontColor=ffffff&animation=twinkling&desc=代码如诗・bug%20如画%20|%20同步率%20400%25&descSize=20" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color1=0x4A90E2&color2=0x95A5A6&color3=0xE8F4F8&height=200&section=header&text=Chengbo%20Yang&fontSize=55&fontColor=ffffff&animation=twinkling&desc=NERV%20Developer%20|%20EVA%20Unit-00%20Pilot&descSize=22" alt="Header Banner"/>
 
 # 👋 你好，我是 Chengbo Yang
 
