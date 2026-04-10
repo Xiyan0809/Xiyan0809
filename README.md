@@ -13,15 +13,7 @@
 
 ---
 
-## 📊 GitHub 统计 | GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xiyan0809&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6495ED&icon_color=6495ED&text_color=777777&count_private=true" alt="GitHub Stats"/>
-  
-  <img src="https://streak-stats.demolab.com?user=Xiyan0809&theme=dark&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&dates=777777" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🏆 成就奖杯 | Achievements
 
